@@ -44,7 +44,7 @@ tunnel:
   ipv4: 198.18.0.1
 
 socks5:
-  port: 40000
+  port: 20000
   address: '2a14:67c0:116::1'
   udp: 'udp'
   username: 'alice'
